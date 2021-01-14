@@ -19,10 +19,13 @@ Features
 1. Jira core
 
 
+2. Jira software
 
 
-Jira software
+3. Jira service desk
 
-Jira service desk
 
-Jira Ops
+4. Jira Ops
+
+
+### Which agile methodology is used in JIRA?
